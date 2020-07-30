@@ -2,10 +2,11 @@
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "/style.css",
     "/manifest.webmanifest",
-    "/assets/images/icons/icon-192x192.png",
-    "/assets/images/icons/icon-512x512.png",
+    "/styles.css",
+    "/index.js",
+    "/icons/icon-192x192.png",
+    "/icons/icon-512x512.png"
 ];
 
 // the name of the cache we are going to use for storing our static assets
