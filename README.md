@@ -10,10 +10,10 @@
 
 ## Table of Contents:
 * [Description](##Description)
-* [How to Install](##How-to-Install)
-* [Technologies Used](##Technologies-Used)
+* [Built With](##Built-With)
 * [Usage](##Usage)
 * [Contributors](##Contributors)
+* [Acknowledgments](##Link-to-Page)
 * [Link to Page](##Link-to-Page)
 
 ## Description
@@ -21,12 +21,6 @@ This budegt app enables a user to add and subtract their expenses online or offl
 
 * Offline Functionality: Enter deposits and expenses offline
 * When brought back online: Offline entries added to tracker
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Usage
 The user is able to add expenses and depositsto their budget while online or offline, and updates total when brough back online. Updated application has offline access and functionality.
@@ -38,6 +32,6 @@ The user is able to add expenses and depositsto their budget while online or off
 * The db file from week 17 mini project
 
 ## Link to Heroku Page
-* https://vast-plateau-18519.herokuapp.com/
+* https://arcane-beach-73879.herokuapp.com/
 
 
