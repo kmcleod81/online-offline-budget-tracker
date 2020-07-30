@@ -3,10 +3,10 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/Kmcleod81/online-offline-budget-tracker)](https://shields.io/)
 
 * Offline :
-![Budget Tracker](./img/offline.jpg)
+![Budget Tracker](./public/img/offline.jpg)
 
 * Back Online:
-![Budget Tracker](./img/backOnline.jpg)
+![Budget Tracker](./public/img/backOnline.jpg)
 
 ## Table of Contents:
 * [Description](##Description)
